@@ -1,5 +1,6 @@
-![Spotify ](https://github.com/user-attachments/assets/b3c3ee7d-6a44-4c2f-9f15-156b5aa4d90a)
+![spotify EDA](https://github.com/user-attachments/assets/516d412e-333d-4019-b250-81bf7a8f9acd)
 
-# Spotify Exploratory Data Analysis and solutions to key issues
+
+# Spotify Exploratory Analysis and solutions to Queries
 
 Spotify EDA and insights for growth using SQL and EDA in pandas and powerBI
